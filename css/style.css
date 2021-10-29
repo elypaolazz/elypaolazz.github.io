@@ -78,17 +78,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #a376ca;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #a376ca;
 }
 
 ::selection {
   color: #fff;
-  background: #52d3aa;
+  background: #a376ca;
 }
 
 #fh5co-header {
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: none !important;
-  border: 2px solid #52d3aa;
+  border: 2px solid #a376ca;
 }
 
 .btn {
@@ -303,9 +303,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #52d3aa;
+  background: #a376ca;
   color: #fff;
-  border: 2px solid #52d3aa;
+  border: 2px solid #a376ca;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
@@ -313,11 +313,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #52d3aa;
-  border: 2px solid #52d3aa;
+  color: #a376ca;
+  border: 2px solid #a376ca;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #52d3aa;
+  background: #a376ca;
   color: #fff;
 }
 
@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #52d3aa;
+  border-color: #a376ca;
 }
 
 textarea.form-control {
