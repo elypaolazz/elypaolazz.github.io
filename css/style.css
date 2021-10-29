@@ -21,12 +21,12 @@ body {
   font-size: 16px;
   line-height: 1.9;
   color: #7f7f7f;
-  background: #fff;
+  background: #f8f8f9;
   position: relative;
 }
 
 a {
-  color: #52d3aa;
+  color: #a376ca;
   position: relative;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -44,13 +44,13 @@ a:after {
   width: 100%;
   z-index: -1;
   content: "";
-  background: #e6e6e6;
+  
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 a:hover, a:active, a:focus {
-  color: #000;
+  color: #5b3181;
   text-decoration: none !important;
 }
 a:hover:after, a:active:after, a:focus:after {
@@ -467,5 +467,9 @@ textarea.form-control {
 }
 
 
-
+.social-icon {
+  margin: 0 10px;
+  font-size: 70px;
+  color: #c5aade;
+}
 /*# sourceMappingURL=style.css.map */
