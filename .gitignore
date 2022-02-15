@@ -1,0 +1,7 @@
+*.__pycache__
+*.pyc
+*.RData
+*.Rhistory
+*.social_pages
+*.social_pages/suburb_connections_dist_median.html
+*.social_pages/suburb_connections_dist_mean.html
