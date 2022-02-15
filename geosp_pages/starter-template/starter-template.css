@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar li a {
+  color: white;
+}
+
+.navbar li a:hover {
+  background-color: #7CB441;
+  color: #CACECC;
+}
+
+.navbar li a.active {
+  background-color: #7CB441;
+  color: white;
+}
+
+
